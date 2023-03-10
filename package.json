@@ -1,0 +1,22 @@
+{
+  "name": "new-home-school",
+  "version": "1.0.0",
+  "description": "New Home School",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumuchcoffee/new-home-school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tumuchcoffee/new-home-school/issues"
+  },
+  "homepage": "https://github.com/tumuchcoffee/new-home-school#readme",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
